@@ -6,7 +6,7 @@
 
 ###
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> <h2 align="center">Social Media</h2>
+<h2 align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">Social Media</h2>
 
 ###
 
