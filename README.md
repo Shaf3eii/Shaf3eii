@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://imgur.com/a/FG1QHwl" width="80%"> 
+  <h2>Hi ... I'm Mahmoud Salah </h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 </h1>
 <p align="center">
@@ -7,9 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Mahmod+Salah;2nd+year+Computer+Science+student;Problem+Solver;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" />
   </a>
 </p>
-
-
-<h1 align="left">Hi there, I'm Mahmoud! 👋 🚀</h1>
 
 ###
 
