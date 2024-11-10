@@ -3,11 +3,11 @@
 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Mahmoud+Salah+Elshafei;2nd+year+Computer+Science+student;Problem+Solver;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Mahmoud+Salah+Elshafei;2nd+year+Computer+Science+student;Problem+Solver;Always+learning+new+things;Using+Software+as+a+solution+for+every+Problem" alt="Typing SVG" />
   </a>
 </p>
 
-<br>
+###
 
 <h2 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">Social Media</h2>
 
