@@ -27,13 +27,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
   <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codeforces/default.svg" width="52" height="40" alt="codeforces logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Codeforces_logo.svg" width="52" height="40" alt="codeforces logo" />
   </a>
   <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" width="52" height="40" alt="leetcode logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="52" height="40" alt="leetcode logo" />
   </a>
   <a href="https://atcoder.jp/users/YOUR_ATCODER_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/atcoder/default.svg" width="52" height="40" alt="atcoder logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/AtCoder_logo.png" width="52" height="40" alt="atcoder logo" />
   </a>
 </div>
 
