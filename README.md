@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">Languages</h2>
+<h2 align="left"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming Languages</h2>
 
 ###
 
