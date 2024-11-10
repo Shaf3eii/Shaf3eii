@@ -1,41 +1,55 @@
-# Hi there, I'm Mahmoud! 👋 🚀
+<h1 align="left">Hi there, I'm Mahmoud! 👋 🚀</h1>
 
-I'm **Mahmoud Salah Elshafei**, a 2nd-year Computer Science student at **Zagazig University** (ZU) 🏫.
+###
 
----
+<h2 align="left">2nd-year Computer Science student at Zagazig University (ZU) 🏫.</h2>
 
-### 👨‍💻 About Me
+###
 
-- 🔍 **Passionate about:** Competitive Programming & Artificial Intelligence
-- 💡 Constantly exploring new ways to push the limits of technology and problem-solving.
+<h2 align="center">Social Media</h2>
 
----
+###
 
-### 📚 Resources and Links 📁
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elshafei-38699328a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Mahmoud66835481" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="834179417651281930" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@mahmoudelshafei2151" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me//ShaF3eii" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
-- [My Competitive Programming Journey](https://github.com/Shaf3eii/Competitive_Programming) - Follow my progress and challenges in competitive coding 🏆
+###
 
----
+<h2 align="center">Languages</h2>
 
-### 🌍 Competitive Programming Profiles 🌐
+###
 
-- [**Codeforces**](https://codeforces.com/profile/ShaFeiii) - Compete and solve problems on Codeforces 💪
-- [**LeetCode**](https://leetcode.com/u/ShaFeiii/) - Practice coding challenges on LeetCode 💻
-- [**AtCoder**](https://atcoder.jp/users/ShaFeiii) - Tackle contests on AtCoder 📊
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
 
----
+###
 
-### 🌱 Fun Facts
+<img src="https://raw.githubusercontent.com/shafeii/shafeii/output/snake.svg" alt="Snake animation" />
 
-- I love diving deep into algorithms and finding the optimal path (literally and figuratively) 🤖.
-- You'll often find me learning or building something new, driven by curiosity and caffeine ☕.
-
----
-
-### 📫 Connect with Me
-
-Feel free to reach out, collaborate, or just say hi! Let's build something amazing together.
-
----
-
-Thanks for visiting my profile! 😊
+###
