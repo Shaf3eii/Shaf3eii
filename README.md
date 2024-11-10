@@ -7,11 +7,7 @@
   </a>
 </p>
 
-###
-
-<h2 align="left">2nd-year Computer Science student at Zagazig University (ZU) 🏫.</h2>
-
-###
+<br>
 
 <h2 align="left"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%">Social Media</h2>
 
