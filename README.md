@@ -33,7 +33,7 @@
 
 ###
 
-<h2 align="left"><img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif](https://github.com/Shaf3eii/Shaf3eii/blob/main/Programming_Languages.gif)?raw=true" width=5%> Programming Languages</h2>
+<h2 align="left"><img src = "https://github.com/Shaf3eii/Shaf3eii/blob/main/Programming_Languages.gif?raw=true" width=5%> Programming Languages</h2>
 
 ###
 
