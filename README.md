@@ -68,6 +68,21 @@
 
 ###
 
+<table>
+  <tr>
+    <td>
+      <a href="https://codeforces.com/profile/ShaFeiii">
+        <img width="410" src="https://codeforces-readme-stats.vercel.app/api/card?username=ShaFeiii&theme=react" alt="Codeforces Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+###
+
+
+###
+
 ![snake gif](https://github.com/Shaf3eii/Shaf3eii/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
