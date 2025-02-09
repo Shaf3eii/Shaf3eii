@@ -80,10 +80,3 @@
 
 ###
 
-
-###
-
-![snake gif](https://github.com/Shaf3eii/Shaf3eii/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
-
